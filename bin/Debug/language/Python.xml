@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<syntax>
+    <keywords>False,None,True,and,as,assert,break,class,continue,def,del,elif,else,except,finally,for,from,global,if,import,in,is,lambda,nonlocal,not,or,pass,raise,return,try,while,with,yiel</keywords>
+    <keywordColor>255, 87, 34</keywordColor>
+    <comment>#</comment>
+    <commentColor>76, 175, 80</commentColor>
+    <stringEnable>true</stringEnable>
+    <stringColor>236, 38, 38</stringColor>
+    <integerEnable>true</integerEnable>
+    <integerColor>233, 30, 99</integerColor>
+    <ingoreCaseKeywords>false</ingoreCaseKeywords>
+</syntax>

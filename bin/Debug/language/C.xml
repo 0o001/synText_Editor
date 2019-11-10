@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<syntax>
+    <keywords>auto,break,case,char,const,continue,default,do,double,else,enum,extern,float,for,goto,if,int,long,register,return,short,signed,sizeof,static,struct,switch,typedef,union,unsigned,void,volatile,while</keywords>
+    <keywordColor>48, 63, 159</keywordColor>
+    <comment>//</comment>
+    <commentColor>76, 175, 80</commentColor>
+    <longComment>/\*[^\'\\\\\\r\\n]*(?:\\\\.[^\'\\\\\\r\\n]*)*\*/</longComment>
+    <stringEnable>true</stringEnable>
+    <stringColor>236, 38, 38</stringColor>
+    <integerEnable>true</integerEnable>
+    <integerColor>233, 30, 99</integerColor>
+    <ingoreCaseKeywords>false</ingoreCaseKeywords>
+</syntax>

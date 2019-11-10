@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<syntax>
+    <keywords>abstract,and,array,as,break,callable,case,catch,class,clone,const,continue,declare,default,die,do,echo,else,elseif,empty,enddeclare,endfor,endforeach,endif,endswitch,endwhile,eval,exit,extends,final,for,foreach,function,global,goto,if,implements,include,include_once,instanceof,insteadof,interface,isset,list,namespace,new,or,print,private,protected,public,require,require_once,return,static,switch,throw,trait,try,unset,use,var,while,xor</keywords>
+    <keywordColor>48, 63, 159</keywordColor>
+    <comment>//</comment>
+    <commentColor>76, 175, 80</commentColor>
+    <longComment>/\*[^\'\\\\\\r\\n]*(?:\\\\.[^\'\\\\\\r\\n]*)*\*/</longComment>
+    <stringEnable>true</stringEnable>
+    <stringColor>236, 38, 38</stringColor>
+    <integerEnable>true</integerEnable>
+    <integerColor>233, 30, 99</integerColor>
+    <ingoreCaseKeywords>false</ingoreCaseKeywords>
+</syntax>

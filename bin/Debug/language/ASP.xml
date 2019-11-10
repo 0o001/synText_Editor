@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<syntax>
+    <keywords>
+case,class,const,continue,default,do,else,false,for,if,in,int,is,lock,new,null,private,public,return,string,true,while,add,get,join,let,remove,select,set,@CODEPAGE,@LCID,Abandon,AddHeader,AppendToLog,Application,Application_OnEnd,Application_OnStart,property,Request,BinaryWrite,Buffer,CacheControl,Charset,Clear,ClientCertificate,CodePage,CodePage,Contents,ContentType,Cookies,End,Expires,ExpiresAbsolute,Flush,Form,HTMLEncode,IsClientConnected,LCID,Lock,MapPath,ObjectContext,OnTransactionAbort,OnTransactionCommit,PICS,QueryString,Redirect,Remove,RemoveAll,Request,Response,ScriptTimeout,Server,ServerVariables,Session,Session_OnEnd,Session_OnStart,SessionID,SetAbort,SetComplete,StaticObjects,Status,Timeout,TotalBytes,Unlock,URLEncode,Write</keywords>
+    <keywordColor>48, 63, 159</keywordColor>
+    <comment>//</comment>
+    <commentColor>76, 175, 80</commentColor>
+    <longComment>/\*[^\'\\\\\\r\\n]*(?:\\\\.[^\'\\\\\\r\\n]*)*\*/</longComment>
+    <stringEnable>true</stringEnable>
+    <stringColor>236, 38, 38</stringColor>
+    <integerEnable>true</integerEnable>
+    <integerColor>233, 30, 99</integerColor>
+    <ingoreCaseKeywords>true</ingoreCaseKeywords>
+</syntax>

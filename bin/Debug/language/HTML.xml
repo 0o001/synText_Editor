@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<syntax>
+    <keywords>!DOCTYPE,html,title,body,h1,h2,h3,h4,h5,h6,p,br,hr,acronym,abbr,address,b,bdi,bdo,big,blockquote,center,cite,code,del,dfn,em,font,i,ins,kbd,mark,meter,pre,progress,q,rp,rt,ruby,s,samp,small,strike,strong,sub,sup,time,tt,u,var,wbr,form,input,textarea,button,select,optgroup,option,label,fieldset,legend,datalist,keygen,output,frame,frameset,noframes,iframe,img,map,area,canvas,figcaption,figure,audio,source,track,video,a,link,nav,ul,ol,li,dir,dl,dt,dd,menu,menuitem,table,caption,th,tr,td,thead,tbody,tfoot,col,colgroup,style,div,span,header,footer,main,section,article,aside,details,dialog,summary,head,meta,base,basefont,script,noscript,applet,embed,object,param</keywords>
+    <keywordColor>217, 38, 89</keywordColor>
+    <comment></comment>
+    <commentColor>76, 175, 80</commentColor>
+    <longComment>!--[^\'\\\\\\r\\n]*(?:\\\\.[^\'\\\\\\r\\n]*)*\--</longComment>
+    <stringEnable>true</stringEnable>
+    <stringColor>169, 169, 169</stringColor>
+    <integerEnable>false</integerEnable>
+    <ingoreCaseKeywords>true</ingoreCaseKeywords>
+</syntax>

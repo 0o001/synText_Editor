@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<syntax>
+    <keywords>abort,else,new,return,abs,elsif,not,reverse,abstract,end,null,accept,entry,select,access,exception,of,separate,aliased,exit,or,some,all,others,subtype,and,for,out,synchronized,array,function,overriding,at,tagged,generic,package,task,begin,goto,pragma,terminate,body,private,then,if,procedure,type,case,in,protected,constant,interface,until,is,raise,use,declare,range,delay,limited,record,when,delta,loop,rem,while,digits,renames,with,do,mod,requeue,xor</keywords>
+    <keywordColor>48, 63, 159</keywordColor>
+    <comment>--</comment>
+    <commentColor>76, 175, 80</commentColor>
+    <longComment>/\*[^\'\\\\\\r\\n]*(?:\\\\.[^\'\\\\\\r\\n]*)*\*/</longComment>
+    <stringEnable>true</stringEnable>
+    <stringColor>236, 38, 38</stringColor>
+    <integerEnable>true</integerEnable>
+    <integerColor>233, 30, 99</integerColor>
+    <ingoreCaseKeywords>false</ingoreCaseKeywords>
+</syntax>

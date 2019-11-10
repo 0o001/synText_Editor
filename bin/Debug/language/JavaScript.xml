@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<syntax>
+    <keywords>abstract,arguments,boolean,break,bytecase,catch,char,class,const,continue,debugger,default,delete,do,double,else,enum,eval,export,extends,false,final,finally,float,for,function,goto,if,implements,import,in,instanceof,int,interfaceilet,long,native,new,null,package,private,protected,public,return,short,static,super,switch,synchronized,this,throw,throws,transient,true,try,typeof,var,void,volatile,while,with,yield,Array,Date,eval,function,hasOwnPropertyInfinity,isFinite,isNaN,isPrototypeOf,lengthMath,NaN,name,Number,Objectprototype,String,toString,undefined,valueOf,getClass,java,JavaArray,javaClass,JavaObject,JavaPackage,alert,all,anchor,anchors,areaassign,blur,button,checkbox,clearInterval,clearTimeout,clientInformation,close,closed,confirm,constructor,crypto,decodeURI,decodeURIComponent,defaultStatusdocument,element,elements,embed,embedsencodeURI,encodeURIComponent,escape,event,fileUploadfocus,form,forms,frame,innerHeightinnerWidth,layer,layers,link,locationmimeTypes,navigate,navigator,frames,frameRatehidden,history,image,images,offscreenBuffering,open,opener,option,outerHeight,outerWidthpackages,pageXOffset,pageYOffset,parent,parseFloatparseInt,password,pkcs11,plugin,prompt,propertyIsEnum,radio,reset,screenX,screenYscroll,secure,select,self,setInterval,setTimeout,status,submit,taint,text,textarea,top,unescape,untaint,window,onblur,onclick,onerror,onfocusonkeydown,onkeypress,onkeyup,onmouseoveronload,onmouseup,onmousedown,onsubmit</keywords>
+    <keywordColor>48, 63, 159</keywordColor>
+    <comment>//</comment>
+    <commentColor>76, 175, 80</commentColor>
+    <longComment>/\*[^\'\\\\\\r\\n]*(?:\\\\.[^\'\\\\\\r\\n]*)*\*/</longComment>
+    <stringEnable>true</stringEnable>
+    <stringColor>236, 38, 38</stringColor>
+    <integerEnable>true</integerEnable>
+    <integerColor>233, 30, 99</integerColor>
+    <ingoreCaseKeywords>false</ingoreCaseKeywords>
+</syntax>

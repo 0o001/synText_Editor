@@ -1,0 +1,44 @@
+C:\Users\musta\OneDrive\Belgeler\Visual Studio 2015\Projects\synText_Editor\synText_Editor\obj\Debug\synText_Editor.csprojResolveAssemblyReference.cache
+C:\Users\musta\OneDrive\Belgeler\Visual Studio 2015\Projects\synText_Editor\synText_Editor\obj\Debug\synText_Editor.frm_editor.resources
+C:\Users\musta\OneDrive\Belgeler\Visual Studio 2015\Projects\synText_Editor\synText_Editor\obj\Debug\synText_Editor.Properties.Resources.resources
+C:\Users\musta\OneDrive\Belgeler\Visual Studio 2015\Projects\synText_Editor\synText_Editor\obj\Debug\synText_Editor.csproj.GenerateResource.Cache
+C:\Users\musta\onedrive\belgeler\visual studio 2015\Projects\synText_Editor\synText_Editor\bin\Debug\ActiveButtons.dll
+C:\Users\musta\onedrive\belgeler\visual studio 2015\Projects\synText_Editor\synText_Editor\bin\Debug\ActiveButtons.pdb
+C:\Users\musta\onedrive\belgeler\visual studio 2015\Projects\synText_Editor\synText_Editor\bin\Debug\synText.exe
+C:\Users\musta\onedrive\belgeler\visual studio 2015\Projects\synText_Editor\synText_Editor\bin\Debug\synText.pdb
+C:\Users\musta\onedrive\belgeler\visual studio 2015\Projects\synText_Editor\synText_Editor\obj\Debug\synText.exe
+C:\Users\musta\onedrive\belgeler\visual studio 2015\Projects\synText_Editor\synText_Editor\obj\Debug\synText.pdb
+C:\Users\musta\OneDrive\Belgeler\Visual Studio 2015\Projects\synText_Editor\synText_Editor\obj\Debug\synText_Editor.frm_hakkinda.resources
+C:\Users\musta\Desktop\syn\synText_Editor\synText_Editor\obj\Debug\synText.exe
+C:\Users\musta\Desktop\syn\synText_Editor\synText_Editor\obj\Debug\synText.pdb
+C:\Users\musta\Desktop\syn\synText_Editor\synText_Editor\obj\Debug\synText_Editor.csprojResolveAssemblyReference.cache
+C:\Users\musta\Desktop\syn\synText_Editor\synText_Editor\obj\Debug\synText_Editor.frm_editor.resources
+C:\Users\musta\Desktop\syn\synText_Editor\synText_Editor\obj\Debug\synText_Editor.frm_hakkinda.resources
+C:\Users\musta\Desktop\syn\synText_Editor\synText_Editor\obj\Debug\synText_Editor.Properties.Resources.resources
+C:\Users\musta\Desktop\syn\synText_Editor\synText_Editor\obj\Debug\synText_Editor.csproj.GenerateResource.Cache
+C:\Users\musta\Desktop\syn\synText_Editor\synText_Editor\bin\Debug\synText.exe
+C:\Users\musta\Desktop\syn\synText_Editor\synText_Editor\bin\Debug\synText.pdb
+C:\Users\musta\Desktop\syn\synText_Editor\synText_Editor\bin\Debug\ActiveButtons.pdb
+C:\Users\musta\Desktop\syn\synText_Editor\synText_Editor\obj\Debug\synText_Editor.frm_dil.resources
+C:\Users\Mustafa Uzun\Desktop\synText_Editor v2.0\synText_Editor\obj\Debug\synText.exe
+C:\Users\Mustafa Uzun\Desktop\synText_Editor v2.0\synText_Editor\obj\Debug\synText.pdb
+C:\Users\Mustafa Uzun\Desktop\synText_Editor v2.0\synText_Editor\bin\Debug\synText.exe
+C:\Users\Mustafa Uzun\Desktop\synText_Editor v2.0\synText_Editor\bin\Debug\synText.pdb
+C:\Users\Mustafa Uzun\Desktop\synText_Editor v2.0\synText_Editor\bin\Debug\ActiveButtons.pdb
+C:\Users\Mustafa Uzun\Desktop\synText_Editor v2.0\synText_Editor\obj\Debug\synText_Editor.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa Uzun\Desktop\synText_Editor v2.0\synText_Editor\obj\Debug\synText_Editor.frm_dil.resources
+C:\Users\Mustafa Uzun\Desktop\synText_Editor v2.0\synText_Editor\obj\Debug\synText_Editor.frm_editor.resources
+C:\Users\Mustafa Uzun\Desktop\synText_Editor v2.0\synText_Editor\obj\Debug\synText_Editor.frm_hakkinda.resources
+C:\Users\Mustafa Uzun\Desktop\synText_Editor v2.0\synText_Editor\obj\Debug\synText_Editor.Properties.Resources.resources
+C:\Users\Mustafa Uzun\Desktop\synText_Editor v2.0\synText_Editor\obj\Debug\synText_Editor.csproj.GenerateResource.Cache
+C:\Users\Mustafa Uzun\Desktop\Çalışmalar\synText_Editor v2.0\synText_Editor\obj\Debug\synText.exe
+C:\Users\Mustafa Uzun\Desktop\Çalışmalar\synText_Editor v2.0\synText_Editor\obj\Debug\synText.pdb
+C:\Users\Mustafa Uzun\Desktop\Çalışmalar\synText_Editor v2.0\synText_Editor\bin\Debug\synText.exe
+C:\Users\Mustafa Uzun\Desktop\Çalışmalar\synText_Editor v2.0\synText_Editor\bin\Debug\synText.pdb
+C:\Users\Mustafa Uzun\Desktop\Çalışmalar\synText_Editor v2.0\synText_Editor\bin\Debug\ActiveButtons.pdb
+C:\Users\Mustafa Uzun\Desktop\Çalışmalar\synText_Editor v2.0\synText_Editor\obj\Debug\synText_Editor.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa Uzun\Desktop\Çalışmalar\synText_Editor v2.0\synText_Editor\obj\Debug\synText_Editor.frm_dil.resources
+C:\Users\Mustafa Uzun\Desktop\Çalışmalar\synText_Editor v2.0\synText_Editor\obj\Debug\synText_Editor.frm_editor.resources
+C:\Users\Mustafa Uzun\Desktop\Çalışmalar\synText_Editor v2.0\synText_Editor\obj\Debug\synText_Editor.frm_hakkinda.resources
+C:\Users\Mustafa Uzun\Desktop\Çalışmalar\synText_Editor v2.0\synText_Editor\obj\Debug\synText_Editor.Properties.Resources.resources
+C:\Users\Mustafa Uzun\Desktop\Çalışmalar\synText_Editor v2.0\synText_Editor\obj\Debug\synText_Editor.csproj.GenerateResource.Cache

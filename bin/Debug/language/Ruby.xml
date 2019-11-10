@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<syntax>
+    <keywords>BEGIN,END,alias,and,begin,break,case,class,def,defined,do,else,elsif,end,ensure,false,for,if,in,module,next,nil,not,or,redo,rescue,retry,return,self,supert,hen,true,undef,unless,until,when,while,yield</keywords>
+    <keywordColor>255, 87, 34</keywordColor>
+    <comment>#</comment>
+    <commentColor>76, 175, 80</commentColor>
+    <stringEnable>true</stringEnable>
+    <stringColor>236, 38, 38</stringColor>
+    <integerEnable>true</integerEnable>
+    <integerColor>233, 30, 99</integerColor>
+    <ingoreCaseKeywords>false</ingoreCaseKeywords>
+</syntax>

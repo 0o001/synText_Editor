@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<syntax>
+    <keywords>ans,iskeyword,is,isvarname,break,case,catch,classdef,continue,complex,or,and,else,elseif,end,for,function,global,if,otherwise,parfor,persistent,return,spmd,switch,try,while,clc,clear,exist,global,help,lookfor,quit,who,whos,ans,eps,i,j,Inf,NaN,pi,cd,date,diary,dir,load,path,pwd,save,workspace,type,what,disp,fscanf,format,fprintf,input,format,cat,find,length,linspace,logspace,max,min,prod,reshape,size,sort,sum,eye,ones,zeros,cross,dot,det,inv,pinv,rank,rref,cell,celldisp,cellplot,num2cell,deal,iscell,fieldnames,getfield,isfield,isstruct,rmfield,setfield,struct,meshgrid,xor,break,case,else,elseif,end,error,for,if,otherwise,return,switch,warning,while,any,all,find,isnan,isinf,isempty,isreal,eval,feval,function,global,cputimeclocktic,toc,start,stop,timer,exp,log,log10,sqrt,acos,acot,acsc,asec,asin,atan,atan2,cos,cot,csc,sec,sin,tan,acosh,acoth,acsch,asech,asinh,atanh,cosh,coth,csch,sech,sinh,tanh,abs,angle,conj,imag,real,erf,mean,median,std,rand,randn,ceil,fix,floor,round,sign,findstr,strcmp,char,conv,deconv,eig,poly,polyfit,polyval,roots,interp1,interp2,spline,unmkpp,fzero,quad,quadl,trapz,diff,polyder,ode23,ode45,ode113,ode23s,ode23t,ode23b,ode15s,odeset,factor,diff,det,eig,inv,poly</keywords>
+    <keywordColor>48, 63, 159</keywordColor>
+    <comment>%</comment>
+    <commentColor>76, 175, 80</commentColor>
+    <longComment>{%[^\'\\\\\\r\\n]*(?:\\\\.[^\'\\\\\\r\\n]*)*\%}</longComment>
+    <stringEnable>true</stringEnable>
+    <stringColor>236, 38, 38</stringColor>
+    <integerEnable>true</integerEnable>
+    <integerColor>233, 30, 99</integerColor>
+    <ingoreCaseKeywords>false</ingoreCaseKeywords>
+</syntax>
